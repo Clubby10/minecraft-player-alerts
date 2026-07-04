@@ -1,0 +1,22 @@
+{
+  "minecraft": {
+    "host": "example.org",
+    "port": 25565,
+    "username": "AlertBot",
+    "auth": "microsoft",
+    "version": "1.8.9",
+    "joinCommand": ""
+  },
+  "discord": {
+    "alertChannelId": "",
+    "adminRoleIds": [],
+    "adminUserIds": []
+  },
+  "alerts": {
+    "enabled": true,
+    "radius": 64,
+    "pollMs": 3000,
+    "repeatAlertMs": 60000
+  },
+  "whitelist": []
+}
