@@ -12,15 +12,6 @@ Mineflayer Discord bot for joining a Minecraft server, sending commands, and ale
 
 Set `GUILD_ID` in `.env` for faster slash command updates during testing.
 
-## Pictures
-
-![Launching](pictures/launching.png)
-![Alerts](pictures/alerts.png)
-![Config](pictures/config.png)
-![Config Manager](pictures/config%20manager.png)
-![Moving](pictures/moving.png)
-![Sudo](pictures/sudo.png)
-
 ## Commands
 
 - `/join`, `/leave`, `/status`
@@ -34,3 +25,12 @@ Set `GUILD_ID` in `.env` for faster slash command updates during testing.
 Most commands allow Discord `Administrator`, `discord.adminUserIds`, or `discord.adminRoleIds`.
 
 `/config` requires `discord.adminUserIds`. `/admin` also requires `discord.adminUserIds`, except Discord `Administrator` users can add the first verified admin when the list is empty.
+
+## Pictures
+
+![Launching](pictures/launching.png)
+![Alerts](pictures/alerts.png)
+![Config](pictures/config.png)
+![Config Manager](pictures/config%20manager.png)
+![Moving](pictures/moving.png)
+![Sudo](pictures/sudo.png)
