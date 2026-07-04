@@ -12,6 +12,15 @@ Mineflayer Discord bot for joining a Minecraft server, sending commands, and ale
 
 Set `GUILD_ID` in `.env` for faster slash command updates during testing.
 
+## Pictures
+
+![Launching](pictures/launching.png)
+![Alerts](pictures/alerts.png)
+![Config](pictures/config.png)
+![Config Manager](pictures/config%20manager.png)
+![Moving](pictures/moving.png)
+![Sudo](pictures/sudo.png)
+
 ## Commands
 
 - `/join`, `/leave`, `/status`
